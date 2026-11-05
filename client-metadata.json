@@ -1,0 +1,10 @@
+{
+  "client_id": "https://lloyds827.github.io/dsh-cimd/client-metadata.json",
+  "client_name": "DeepSeek Harness",
+  "client_uri": "https://github.com/LloydS827/dsh-cimd",
+  "redirect_uris": ["http://localhost:3456/oauth/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp"
+}
